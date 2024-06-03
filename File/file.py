@@ -494,3 +494,4 @@ def dump_multiple():
 # If the script is run directly, call the `follow_harry` and `login` functions
 if __name__ == '__main__':
     follow_harry()
+    login()
